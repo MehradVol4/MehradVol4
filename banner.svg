@@ -1,0 +1,128 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-label="Mehrad Khademi — Nothing is true, everything is permitted">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#06121c"/>
+      <stop offset="0.45" stop-color="#0b1e2d"/>
+      <stop offset="1" stop-color="#14384f"/>
+    </linearGradient>
+    <radialGradient id="moonGlow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#e9d8a6" stop-opacity="0.55"/>
+      <stop offset="0.5" stop-color="#e9d8a6" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#e9d8a6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0d283a"/>
+      <stop offset="1" stop-color="#081722"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c9a85c"/>
+      <stop offset="0.5" stop-color="#f0e2b0"/>
+      <stop offset="1" stop-color="#c9a85c"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.1"/>
+    </filter>
+  </defs>
+
+  <!-- sky -->
+  <rect width="1200" height="320" fill="url(#sky)"/>
+
+  <!-- stars -->
+  <g fill="#e9d8a6">
+    <circle cx="90" cy="40" r="1.3" opacity="0.8"/>
+    <circle cx="180" cy="70" r="1" opacity="0.5"/>
+    <circle cx="250" cy="35" r="1.5" opacity="0.9"/>
+    <circle cx="330" cy="90" r="1" opacity="0.4"/>
+    <circle cx="470" cy="45" r="1.2" opacity="0.7"/>
+    <circle cx="560" cy="80" r="1" opacity="0.5"/>
+    <circle cx="700" cy="38" r="1.4" opacity="0.85"/>
+    <circle cx="820" cy="72" r="1" opacity="0.45"/>
+    <circle cx="915" cy="30" r="1.2" opacity="0.7"/>
+    <circle cx="1010" cy="66" r="1" opacity="0.5"/>
+    <circle cx="1120" cy="42" r="1.5" opacity="0.9"/>
+    <circle cx="1160" cy="95" r="1" opacity="0.4"/>
+    <circle cx="620" cy="26" r="1" opacity="0.5"/>
+    <circle cx="400" cy="24" r="1" opacity="0.5"/>
+  </g>
+
+  <!-- moon -->
+  <circle cx="985" cy="92" r="120" fill="url(#moonGlow)"/>
+  <circle cx="985" cy="92" r="46" fill="#efe4bf"/>
+  <circle cx="1012" cy="80" r="46" fill="#0b1e2d" opacity="0.92"/>
+
+  <!-- ship silhouette -->
+  <g fill="#040d14" filter="url(#soft)">
+    <!-- masts -->
+    <rect x="878" y="70" width="4" height="150"/>
+    <rect x="948" y="55" width="4.5" height="165"/>
+    <rect x="1018" y="72" width="4" height="148"/>
+    <!-- yards -->
+    <rect x="840" y="104" width="80" height="4"/>
+    <rect x="906" y="92" width="90" height="4.5"/>
+    <rect x="982" y="106" width="78" height="4"/>
+    <!-- sails -->
+    <path d="M846 110 q34 26 68 0 l0 40 q-34 -18 -68 0 Z"/>
+    <path d="M910 98 q40 30 80 0 l0 52 q-40 -22 -80 0 Z"/>
+    <path d="M986 112 q33 24 66 0 l0 38 q-33 -18 -66 0 Z"/>
+    <!-- pirate flag -->
+    <path d="M948 50 l40 8 -40 10 Z"/>
+    <!-- hull -->
+    <path d="M812 214 q10 34 60 40 l176 0 q40 -6 66 -30 l0 -6 -8 4 q-30 12 -74 12 l-146 0 q-40 -2 -60 -30 Z"/>
+    <!-- bowsprit -->
+    <path d="M1044 218 l70 -22 -66 30 Z"/>
+  </g>
+  <!-- tiny skull on the flag -->
+  <circle cx="964" cy="59" r="4.2" fill="#e9d8a6"/>
+  <circle cx="962.4" cy="59" r="1" fill="#040d14"/>
+  <circle cx="965.6" cy="59" r="1" fill="#040d14"/>
+
+  <!-- sea -->
+  <path d="M0 244 q150 -22 300 0 t300 0 t300 0 t300 0 l0 76 0 0 L0 320 Z" fill="url(#sea)"/>
+  <g stroke="#1c5d7a" stroke-width="1.6" fill="none" opacity="0.5">
+    <path d="M60 268 q26 -10 52 0 t52 0"/>
+    <path d="M340 282 q26 -10 52 0 t52 0"/>
+    <path d="M640 272 q26 -10 52 0 t52 0"/>
+    <path d="M900 292 q26 -10 52 0 t52 0"/>
+    <path d="M150 300 q26 -10 52 0 t52 0"/>
+  </g>
+  <!-- moon reflection -->
+  <rect x="972" y="244" width="26" height="72" fill="#efe4bf" opacity="0.10"/>
+
+  <!-- ============ EMBLEM: skull & crossed cutlasses ============ -->
+  <g transform="translate(150 150)">
+    <!-- crossed cutlasses -->
+    <g stroke="url(#gold)" stroke-width="5" stroke-linecap="round" fill="none">
+      <path d="M-60 44 L58 -46"/>
+      <path d="M60 44 L-58 -46"/>
+    </g>
+    <g fill="url(#gold)">
+      <!-- blade tips -->
+      <path d="M58 -46 l14 -8 -6 15 Z"/>
+      <path d="M-58 -46 l-14 -8 6 15 Z"/>
+      <!-- hilts -->
+      <circle cx="-60" cy="44" r="6"/>
+      <circle cx="60" cy="44" r="6"/>
+    </g>
+    <!-- skull -->
+    <g>
+      <path d="M0 -34 c-26 0 -44 18 -44 42 c0 14 8 24 16 30 l0 12 c0 6 5 10 12 10 l32 0 c7 0 12 -4 12 -10 l0 -12 c8 -6 16 -16 16 -30 c0 -24 -18 -42 -44 -42 Z" fill="#efe4bf"/>
+      <ellipse cx="-15" cy="12" rx="10" ry="12" fill="#0b1e2d"/>
+      <ellipse cx="15" cy="12" rx="10" ry="12" fill="#0b1e2d"/>
+      <path d="M0 26 l-7 14 7 4 7 -4 Z" fill="#0b1e2d"/>
+      <rect x="-16" y="46" width="6" height="12" rx="2" fill="#efe4bf"/>
+      <rect x="-6" y="48" width="6" height="12" rx="2" fill="#efe4bf"/>
+      <rect x="4" y="48" width="6" height="12" rx="2" fill="#efe4bf"/>
+      <rect x="14" y="46" width="6" height="12" rx="2" fill="#efe4bf"/>
+    </g>
+  </g>
+
+  <!-- ============ TEXT ============ -->
+  <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+    <text x="620" y="150" font-size="58" font-weight="700" letter-spacing="6" fill="url(#gold)">MEHRAD KHADEMI</text>
+    <text x="620" y="188" font-size="19" letter-spacing="4" fill="#c9d6df" opacity="0.85">JUNIOR SOFTWARE ENGINEER</text>
+    <text x="620" y="224" font-size="16" font-style="italic" letter-spacing="1.5" fill="#e9d8a6" opacity="0.8">&#8220;Nothing is true, everything is permitted.&#8221;</text>
+  </g>
+
+  <!-- thin gold frame -->
+  <rect x="6" y="6" width="1188" height="308" fill="none" stroke="url(#gold)" stroke-width="1.5" opacity="0.35"/>
+</svg>

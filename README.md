@@ -1,16 +1,11 @@
 <!-- ⚓ MehradVol4 — Profile README · Black Flag themed ⚓ -->
-<!-- Drop this file in a repo named exactly "MehradVol4" -->
+<!-- Put this file AND banner.svg in a repo named exactly "MehradVol4" -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1e2d,50:14384f,100:1c5d7a&height=200&section=header&text=Mehrad%20Khademi&fontColor=e9d8a6&fontSize=48&desc=Nothing%20is%20true%2C%20everything%20is%20permitted&descSize=18&descAlignY=62&animation=fadeIn" alt="banner" width="100%"/>
+<img src="./banner.svg" alt="Mehrad Khademi — Nothing is true, everything is permitted" width="100%"/>
 
-<!-- ── Skull & Creed ── -->
-```
-        ☠  ⚔  ☠
-   Every port a new horizon.
-   Every commit a new voyage.
-```
+<br/>
 
 <a href="https://www.linkedin.com/in/mehradkhd/"><img src="https://img.shields.io/badge/LinkedIn-0b1e2d?style=for-the-badge&logo=linkedin&logoColor=e9d8a6" alt="LinkedIn"/></a>
 <a href="https://instagram.com/mehradkhd"><img src="https://img.shields.io/badge/Instagram-0b1e2d?style=for-the-badge&logo=instagram&logoColor=e9d8a6" alt="Instagram"/></a>
@@ -24,12 +19,12 @@
 
 > *"We work in the dark to serve the light."*
 
-Junior Software Engineer sailing the front-end seas — I chart interfaces in **React**, **Next.js**, and **TypeScript**, and I don't leave a voyage until the deck is clean and the types compile. Currently crewing on ERP systems and dashboards; always looking for the next horizon.
+Junior Software Engineer sailing the front-end seas — I build interfaces with **React**, **Next.js**, and **TypeScript**, and I don't leave a voyage until the deck is clean and the types compile. Currently working on ERP systems and dashboards; always charting the next horizon.
 
-- 🧭 **Bearing:** Front-end craft, product engineering, clean & typed codebases
-- ⚔️ **Currently boarding:** ERP (Next.js + Strapi), dashboards, an Assassin's fleet of side-quests
-- 🗺️ **Learning the maps of:** system design, backend, AI-assisted workflows
-- 🦜 **Creed:** ship it, then make it worthy of the flag
+- 🧭 **Focus:** Front-end craft, product engineering, clean and well-typed codebases
+- ⚔️ **Currently building:** ERP (Next.js + Strapi), dashboards, and a fleet of side projects
+- 🗺️ **Learning:** system design, backend, and AI-assisted workflows
+- 🦜 **Principle:** ship it, then make it worthy of the flag
 
 ---
 
@@ -91,7 +86,5 @@ Junior Software Engineer sailing the front-end seas — I chart interfaces in **
 <div align="center">
 
 *"The truth is written in blood... and in clean commits."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c5d7a,50:14384f,100:0b1e2d&height=120&section=footer" alt="footer" width="100%"/>
 
 </div>
