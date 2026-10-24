@@ -21,7 +21,6 @@
 Junior Software Engineer sailing the front-end seas — I build interfaces with **React**, **Next.js**, and **TypeScript**, and I don't leave a voyage until the deck is clean and the types compile. 
 
 - 🧭 **Focus:** Front-end craft, product engineering, clean and well-typed codebases
-- ⚔️ **Currently building:** ERP (Next.js + Strapi), dashboards, and a fleet of side projects
 - 🗺️ **Learning:** system design, backend, and AI-assisted workflows
 - 🦜 **Principle:** ship it, then make it worthy of the flag
 
@@ -71,7 +70,6 @@ Junior Software Engineer sailing the front-end seas — I build interfaces with 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MehradVol4&show_icons=true&hide_border=true&title_color=e9d8a6&icon_color=e9d8a6&text_color=c9d6df&bg_color=0b1e2d" alt="stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradVol4&layout=compact&hide_border=true&title_color=e9d8a6&text_color=c9d6df&bg_color=0b1e2d" alt="top langs"/>
 
 <br/>
