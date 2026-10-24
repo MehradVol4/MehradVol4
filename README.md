@@ -70,7 +70,7 @@ Junior Software Engineer sailing the front-end seas — I build interfaces with 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehradVol4&layout=compact&hide_border=true&title_color=e9d8a6&text_color=c9d6df&bg_color=0b1e2d" alt="top langs"/>
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MehradVol4&theme=github_dark&title_color=e9d8a6&text_color=c9d6df&bg_color=0b1e2d&border_color=1c5d7a" alt="top langs"/>
 
 <br/>
 
