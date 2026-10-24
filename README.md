@@ -8,7 +8,6 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/mehradkhd/"><img src="https://img.shields.io/badge/LinkedIn-0b1e2d?style=for-the-badge&logo=linkedin&logoColor=e9d8a6" alt="LinkedIn"/></a>
-<a href="https://instagram.com/mehradkhd"><img src="https://img.shields.io/badge/Instagram-0b1e2d?style=for-the-badge&logo=instagram&logoColor=e9d8a6" alt="Instagram"/></a>
 <img src="https://img.shields.io/badge/Port-Tehran,%20Iran-0b1e2d?style=for-the-badge&logo=googlemaps&logoColor=e9d8a6" alt="Location"/>
 
 </div>
@@ -19,7 +18,7 @@
 
 > *"We work in the dark to serve the light."*
 
-Junior Software Engineer sailing the front-end seas — I build interfaces with **React**, **Next.js**, and **TypeScript**, and I don't leave a voyage until the deck is clean and the types compile. Currently working on ERP systems and dashboards; always charting the next horizon.
+Junior Software Engineer sailing the front-end seas — I build interfaces with **React**, **Next.js**, and **TypeScript**, and I don't leave a voyage until the deck is clean and the types compile. 
 
 - 🧭 **Focus:** Front-end craft, product engineering, clean and well-typed codebases
 - ⚔️ **Currently building:** ERP (Next.js + Strapi), dashboards, and a fleet of side projects
